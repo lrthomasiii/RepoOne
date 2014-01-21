@@ -26,3 +26,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
+Link to heroku page: http://lit-dusk-2140.herokuapp.com/
+Issue/solution: My page would not change so i had to re-push everything
